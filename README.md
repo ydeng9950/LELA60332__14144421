@@ -1,7 +1,13 @@
 # LELA60332__14144421
 
 # Named Entity Recognition with BERT and T5
-This repository contains code and evaluation scripts for my coursework project on Named Entity Recognition (NER), comparing two pretrained language models: BERT and T5.
+This repository contains code and evaluation scripts for a project comparing two pre-trained
+language models—**BERT** (token classifier) and **T5** (text-to-text generator)—on a span-labelled
+Named Entity Recognition (NER) task.
+
+## Datasets
+* **English-EWT** (in-domain)
+* **English-PUD** (out-of-domain)
 
 ## Project Overview
 The goal of this project is to evaluate the performance of BERT (token classifier) and T5 (text-to-text generator) on a span-labeling NER task using:
