@@ -1,5 +1,3 @@
-# LELA60332__14144421
-
 # Named Entity Recognition with BERT and T5
 This repository contains code and evaluation scripts for a project comparing two pre-trained
 language models—**BERT** (token classifier) and **T5** (text-to-text generator)—on a span-labelled
